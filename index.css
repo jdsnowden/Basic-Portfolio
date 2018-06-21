@@ -1,0 +1,166 @@
+body {  
+ background-image: url(doodles.png);
+}
+#brownbox {     
+    height: 45px;
+    width: 854px;
+    border: 1px;
+    margin: 2px;
+    bottom: 8px;
+    position: relative;
+    background-color: cadetblue;
+    left: 67px;
+}
+
+#redbox {
+    height: 52px;
+    width: 670px;
+    border: 1px;
+    margin: 2px;
+    bottom: 471px;
+    position: relative;
+    background-color: gainsboro;
+    left: 151px;
+}
+
+#blackbox {
+    height: 220px;
+    width: 2px;
+    border: 1px;
+    margin: 2px;
+    bottom: 462px;
+    position: relative;
+    background-color: gainsboro;
+    left: 328px;
+}
+
+#greybox {
+    height: 52px;
+    width: 170px;
+    border: 1px;
+    margin: 2px;
+    bottom: 747px;
+    position: relative;
+    background-color: floralwhite;
+    left: 152px;
+}
+
+#greenbox {
+    height: 4px;
+    width: 563px;
+    border: 1px;
+    margin: 2px;
+    bottom: 424px;
+    position: relative;
+    background-color: cadetblue;
+    left: 208px;
+    z-index: 1;
+    }
+
+    #bluebox {
+        height: 517px;
+        width: 670px;
+        border: 1px;
+        margin: 2px;
+        bottom: -106px;
+        position: relative;
+        background-color: cadetblue;
+        left: 151px;
+        z-index: -1;
+        }
+
+h2 {
+    background-color: gainsboro;
+    height: 45px;
+    width: 219px;
+    border: 1px;
+    margin: 2px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 22pt;
+    position: relative;
+    left: 150px;
+    bottom: 910px;
+    color: cadetblue;
+    z-index: 1;
+
+}
+
+#about {
+    top: -5px;
+    right: 0px;
+    position: fixed;
+    z-index: 1;
+}
+#portfolio {
+    right: 0px;
+    top: 52px;
+    position: fixed;
+    z-index: 1;
+}
+#mail {
+    right: 0px;
+    top: 109px;
+    position: fixed;
+    z-index: 1;
+}
+.widget {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18pt;
+    border-style: inset;
+    border-bottom: 1px solid black;
+    padding: 0px;
+    margin-top: 5px;
+    color: black;
+    text-decoration: none;
+    position: absolute;
+    width: 86px;
+    height: 27px;
+    background: gainsboro;
+}   
+h3  {
+    top: 81px;
+    left: 175px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    font-size: 22pt;
+    color: cadetblue;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: -1400px;
+    right: -826px;
+    width: 391px;
+}
+ 
+.text  {    
+    float: right;
+    font-size: 12pt;
+    padding: 290px;
+    margin: auto;
+    position: relative;
+    top: -149px;
+}
+img     {
+    float: left;
+    padding: 103px;
+    margin: auto;
+    position: relative;
+    bottom: 929px;
+    right: -24px;
+}
+
+.Coming {   
+    position: relative;
+    bottom: -43px;
+}
+
+.content {
+    height: 960px;
+    width: 200px;
+    padding: 50px;
+    border: 1px;
+}
+
+
